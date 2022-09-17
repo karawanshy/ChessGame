@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_king_black.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\king_black.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_bishop_black.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\bishop_black.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_bishop.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\bishop.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_knight_white.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\knight_white.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_knight_black.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\knight_black.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_pawn_white.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\pawn_white.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_bishop_white.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\bishop_white.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_gold_medal.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\gold_medal.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_rook_black.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\rook_black.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_popup_background.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\popup_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_king_white.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\king_white.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_queen.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\queen.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_progress_popup.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\progress_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_pawn_black.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\pawn_black.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_queen_black.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\queen_black.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_king.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\king.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_rules_popup.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\rules_popup.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_rook.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\rook.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_knight.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\knight.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_game.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\activity_game.xml"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_rook_white.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\rook_white.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_queen_white.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\queen_white.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\drawable_pawn.png.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\drawable\\pawn.png"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_load.xml.flat",
+        "source": "C:\\Users\\KARAWAN\\AndroidStudioProjects\\Chess\\app\\src\\main\\res\\layout\\activity_load.xml"
+    }
+]
