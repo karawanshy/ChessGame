@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="350dp"
+    android:layout_height="450dp"
+    android:layout_gravity="center"
+    android:background="@drawable/popup_background">
+
+
+    <TextView
+        android:id="@+id/chess_rules"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/chess_rules"
+        android:textColor="#EC7063"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@id/king_rules"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/king"
+        android:layout_width="20dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="24dp"
+        android:src="@drawable/king"
+        app:layout_constraintEnd_toStartOf="@id/king_rules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/chess_rules" />
+
+    <TextView
+        android:id="@+id/king_rules"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/king_rules"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/king"
+        app:layout_constraintTop_toBottomOf="@id/chess_rules" />
+
+    <ImageView
+        android:id="@+id/queen"
+        android:layout_width="20dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/queen"
+        app:layout_constraintEnd_toStartOf="@id/queen_rules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/king"/>
+
+    <TextView
+        android:id="@+id/queen_rules"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/queen_rules"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/queen"
+        app:layout_constraintTop_toBottomOf="@id/king_rules" />
+
+    <ImageView
+        android:id="@+id/rook"
+        android:layout_width="20dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/rook"
+        app:layout_constraintEnd_toStartOf="@id/rook_rules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/queen" />
+
+    <TextView
+        android:id="@+id/rook_rules"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/rook_rules"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/rook"
+        app:layout_constraintTop_toBottomOf="@id/queen_rules" />
+
+    <ImageView
+        android:id="@+id/bishop"
+        android:layout_width="20dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/bishop"
+        app:layout_constraintEnd_toStartOf="@id/bishop_rules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/rook" />
+
+    <TextView
+        android:id="@+id/bishop_rules"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/bishop_rules"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/bishop"
+        app:layout_constraintTop_toBottomOf="@id/rook_rules" />
+
+    <ImageView
+        android:id="@+id/knight"
+        android:layout_width="20dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/knight"
+        app:layout_constraintEnd_toStartOf="@id/knight_rules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/bishop" />
+
+    <TextView
+        android:id="@+id/knight_rules"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/knight_rules"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/knight"
+        app:layout_constraintTop_toBottomOf="@id/bishop_rules" />
+
+    <ImageView
+        android:id="@+id/pawn"
+        android:layout_width="20dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="10dp"
+        android:src="@drawable/pawn"
+        app:layout_constraintEnd_toStartOf="@id/pawn_rules"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/knight" />
+
+    <TextView
+        android:id="@+id/pawn_rules"
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="12dp"
+        android:text="@string/pawn_rules"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/pawn"
+        app:layout_constraintTop_toBottomOf="@id/knight_rules" />
+
+    <TextView
+        android:id="@+id/check_title"
+        android:layout_width="35dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="24dp"
+        android:text="@string/check"
+        android:textColor="#900C3F"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.481"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/pawn_rules" />
+
+    <TextView
+        android:id="@+id/check"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="4dp"
+        android:text="@string/check_def"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.396"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/check_title" />
+
+    <TextView
+        android:id="@+id/checkmate_title"
+        android:layout_width="60dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/checkmate"
+        android:textColor="#900C3F"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.51"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/check" />
+
+    <TextView
+        android:id="@+id/checkmate"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="12dp"
+        android:layout_marginTop="8dp"
+        android:text="@string/checkmate_def"
+        android:textSize="10sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.413"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/checkmate_title" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

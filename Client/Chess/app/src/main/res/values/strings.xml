@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Chess</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="cna">Create New Account</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="e_mail">E-mail</string>
+    <string name="start_game">Start Game</string>
+    <string name="view_rules">View Rules</string>
+    <string name="view_progress">View Progress</string>
+    <string name="logged_in_as">Logged in as:</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="drop_out">Drop Out</string>
+    <string name="waiting_for_another_player">Waiting for another Player</string>
+    <string name="go_back">Go Back</string>
+    <string name="chess_rules">Chess Rules</string>
+    <string name="king_rules">The King may move in any direction, so long as no piece is blocking his path.</string>
+    <string name="queen_rules">The Queen may move in any number of squares staright or diagonally in any direction.</string>
+    <string name="rook_rules">The Rook may move in a straight line, any number of squares horizontally or vertically.</string>
+    <string name="bishop_rules">The Bishop may move any number of squares diagonally.</string>
+    <string name="knight_rules">The Knight can jump to any square in L shape. This the only piece that can jump over a piece in it\'s way.</string>
+    <string name="pawn_rules">The Pawn on its first move may move either one or two squares straight forward. After its first move the Pawn may only advance one square at a time. The Pawn captures by moving diagonally one square forward in each direction. The Pawn cannot move or capture backwards!</string>
+    <string name="check">Check:</string>
+    <string name="check_def">A King is in check, when it is attacked by the opponent’s piece. The King can never be captured. A King must get out of the check immediately.</string>
+    <string name="checkmate">Checkmate:</string>
+    <string name="checkmate_def">If the King cannot escape from the check, the position is checkmate and the game is over. The chessPlayer who got checkmated gets zero point and the chessPlayer giving mate gets one point.</string>
+</resources>
