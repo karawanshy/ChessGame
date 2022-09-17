@@ -6,8 +6,9 @@ The App offers:
 * Playing a game
 * Viewing the game rules
 * Viewing the player progress - number of wins, loses and ties
-* Viewing the Top players board - th top three players nicknames and number of wins
+* Viewing the Top players board
 
-A player needs to logged in order to be able to do any of the above.
-
-A game starts when a player decides to play and there is another player already waiting for a match.
+### Notes
+* A player needs to be logged in to do any of the above.
+* A game starts when a player joins and there is another player already waiting for a match.
+* The white player is whoever joind the game first.
