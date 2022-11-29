@@ -11,4 +11,4 @@ The App offers:
 ### Notes
 * A player needs to be logged in to do any of the above.
 * A game starts when a player joins and there is another player already waiting for a match.
-* The white player is whoever joind the game first.
+* The white player is whoever joined the game first.
